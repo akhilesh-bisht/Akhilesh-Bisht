@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-ebon-delta-35.vercel.app/](https://portfolio-ebon-delta-35.vercel.app/)
 
-- 💬 Ask me about **react , tailwind , redux , frontend tech**
+- 💬 Ask me about **react , Javascript, tailwind , redux , frontend tech**
 
 - 📫 How to reach me **akhileshbisht2020@gmail.com**
 
