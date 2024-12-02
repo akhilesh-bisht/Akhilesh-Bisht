@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 👯 I’m looking to collaborate on **frontend projects**
+- 👯 I’m looking to collaborate on **frontend projects** 
 
 - 🤝 I’m looking for help with **frontend and backend**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-ebon-delta-35.vercel.app/](https://portfolio-ebon-delta-35.vercel.app/)
 
-- 💬 Ask me about **react , Javascript, tailwind , redux , node.js , frontend tech**
+- 💬 Ask me about **react , Javascript, tailwind , redux , node.js , frontend tech stack**
 
 - 📫 How to reach me **akhileshbisht2020@gmail.com**
 
