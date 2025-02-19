@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akhilesh Bisht</h1>
-<h3 align="center">A passionate full stack dev from India</h3>
+<h3 align="center">A passionate Full stack dev from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilesh-bisht&label=Profile%20views&color=0e75b6&style=flat" alt="akhilesh-bisht" /> </p>
 
