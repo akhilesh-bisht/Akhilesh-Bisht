@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **frontend and backend**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-ebon-delta-35.vercel.app/](https://portfolio-ebon-delta-35.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://akhileshbisht.netlify.app/]
 
 - 💬 Ask me about **react , Javascript, tailwind , redux , node.js , frontend tech stack**
 
