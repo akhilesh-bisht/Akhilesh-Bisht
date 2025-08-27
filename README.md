@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilesh-bisht&label=Profile%20views&color=0e75b6&style=flat" alt="akhilesh-bisht" /> </p>
 
-- 🔭 I’m currently working on ###
+- 🔭 I’m currently working on **
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on **frontend projects** 
+- 👯 I’m looking to collaborate on **full stack  projects** 
 
-- 🤝 I’m looking for help with **frontend and backend**
+- 🤝 I’m looking for help with **full stack applications**
 
 - 👨‍💻 All of my projects are available at [https://akhileshbisht.netlify.app/]
 
